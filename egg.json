@@ -1,0 +1,10 @@
+{
+  "name": "deno_luxon",
+  "description": "Providing luxon features in deno ",
+  "homepage": "https://github.com/ipmanlk/deno_luxon",
+  "files": [
+    "./**/*.ts",
+    "README.md"
+  ],
+  "entry": "./mod.ts"
+}
